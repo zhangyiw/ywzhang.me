@@ -1,10 +1,7 @@
 ---
 title: "Hugo与hexo的简单对比"
 date: 2023-03-30T12:46:49+08:00
-draft: false
-
-cascade:
-  featured_image: '/images/nightrain.jpg'
+draft: false  
 ---
 
 Hugo和Hexo都是非常流行的静态网站生成器，都可以用来创建快速、高效的静态网站。以下是它们的比较：
