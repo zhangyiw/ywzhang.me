@@ -1,3 +1,6 @@
 [submodule "themes/moments"]
 	path = themes/moments
 	url = https://github.com/FarseaSH/hugo-theme-moments
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
